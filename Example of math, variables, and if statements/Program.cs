@@ -18,5 +18,7 @@ namespace Example_of_math_variables_and_if_statements
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
         }
+
+        //this is a comment added in a nov branch
     }
 }
