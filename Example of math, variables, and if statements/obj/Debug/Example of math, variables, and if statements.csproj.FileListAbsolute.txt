@@ -7,3 +7,6 @@ C:\Users\Jake\Documents\Example of math, variables, and if statements\Example of
 C:\Users\Jake\Documents\Example of math, variables, and if statements\Example of math, variables, and if statements\bin\Debug\Example of math variables and if statements.pdb
 C:\Users\Jake\Documents\Example of math, variables, and if statements\Example of math, variables, and if statements\obj\Debug\Example of math variables and if statements.exe
 C:\Users\Jake\Documents\Example of math, variables, and if statements\Example of math, variables, and if statements\obj\Debug\Example of math variables and if statements.pdb
+C:\Users\10373\Documents\GitHub\CodeReview\Example of math, variables, and if statements\bin\Debug\Example of math variables and if statements.exe.config
+C:\Users\10373\Documents\GitHub\CodeReview\Example of math, variables, and if statements\obj\Debug\Example of math variables and if statements.exe
+C:\Users\10373\Documents\GitHub\CodeReview\Example of math, variables, and if statements\obj\Debug\Example of math variables and if statements.pdb
