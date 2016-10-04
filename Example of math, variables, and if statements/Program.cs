@@ -23,4 +23,6 @@ namespace Example_of_math_variables_and_if_statements
     //This Random comment was added in a sub branch
 
     //This is another random comment added in a subbranch
+
+    //Another random comment
 }
